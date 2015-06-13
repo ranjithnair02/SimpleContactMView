@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ranjithnair02/com/simplecontactmview/ContactData.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ranjithnair02/com/simplecontactmview/RecyclerViewHolderRanjith.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ranjithnair02/com/simplecontactmview/SimpleContactViewAdapter.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/simplemcontactview/src/main/java/ranjithnair02/com/simplemcontactview/ContactData.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/simplemcontactview/src/main/java/ranjithnair02/com/simplemcontactview/RandomColorGen.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/simplemcontactview/src/main/java/ranjithnair02/com/simplemcontactview/RecyclerViewHolderRanjith.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/simplemcontactview/src/main/java/ranjithnair02/com/simplemcontactview/SimpleContactViewAdapter.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/simplemcontactview/src/main/java/ranjithnair02/com/simplemcontactview/SwipeDismissRecyclerViewTouchListener.java" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/simplemcontactview/src/main/java/ranjithnair02/com/simplemcontactview/SwipeDismissTouchListener.java" charset="windows-1252" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
